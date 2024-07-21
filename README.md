@@ -14,7 +14,7 @@
 
 # 5: To run the application 
    command: uvicorn app.main:app
-![alt text](Fastapi.png)
+![alt text](Fastapi-img.png)
 
 # 6: Create Dockerfile
    Use an official Python runtime as a parent image
